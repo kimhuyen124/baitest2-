@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241923240298",
+    "firebase_url": "https://bai2-44812-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bai2-44812",
+    "storage_bucket": "bai2-44812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241923240298:android:e0dd956786f8ee542f3513",
+        "android_client_info": {
+          "package_name": "com.example.baitest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241923240298-i5ovfps461v2sqi93rc06g2v3rv23q82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrC0-sCkyUEOHc6zvZEExmZkkjYo9eBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241923240298-i5ovfps461v2sqi93rc06g2v3rv23q82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
